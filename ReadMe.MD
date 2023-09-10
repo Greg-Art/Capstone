@@ -54,3 +54,7 @@ Please make sure to update tests as appropriate. Contact me via my email: gregor
 
 ## Author
 Arthur Kwaku Gregory
+Sonny Argovor-Otchie
+Pamela Quartey
+Richard Fiagbeti
+David Gyesi Biney

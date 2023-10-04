@@ -33,7 +33,7 @@ st_lottie(st.session_state.lottie_hello, height=200)
 
 
 st.markdown("""On this app, you will  be able to classify Movie Review sentiments with the Tiny-Bert model
-The objective of this challenge is to develop a machine learning model to assess if a twitter post that is related to vaccinations is positive or negative.""")
+The objective of this challenge is to develop a machine learning model to assess if a movie review is positive or negative.""")
 
 st.subheader("""Variable Definition:""")
 
